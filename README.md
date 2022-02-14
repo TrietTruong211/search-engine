@@ -2,7 +2,7 @@
 
 # Search Engine
 
-This application is a clone of goole search
+This application is a clone of google search
 
 ## Functionalities
 
